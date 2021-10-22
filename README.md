@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Guilherme Beck
 
 
 - 🌱 Atualmente estou estudando JavaScript
