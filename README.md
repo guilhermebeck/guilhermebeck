@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/2e/cf/eb/2ecfeb00c20768c853b040433578cd30.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6750/856cb65b30084dc554b8f51051345445111d61e0_hq.gif">
 </div>
   
   ##
