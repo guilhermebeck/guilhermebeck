@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Guilherme Beck
 <div>
   <a href="https://github.com/guilhermebeck">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermebeck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermebeck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebeck&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/2e/cf/eb/2ecfeb00c20768c853b040433578cd30.jpg">
+  <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/2e/cf/eb/2ecfeb00c20768c853b040433578cd30.jpg">
 </div>
   
   ##
