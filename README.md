@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebeck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <h1>My Languages:</h1>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
@@ -16,7 +17,7 @@
 </div>
 
 <div align = "center"> 
-  <h1>Contact</h1>
+  <h1>Contact:</h1>
  <a align="center" href="https://api.whatsapp.com/send?phone=5511989501646"> <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 <div> 
   
